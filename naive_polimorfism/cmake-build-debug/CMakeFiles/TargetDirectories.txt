@@ -1,0 +1,3 @@
+C:/Users/Magda/Documents/4sem/programowanie/naiwny polimorfizm/cmake-build-debug/CMakeFiles/naiwny_polimorfizm.dir
+C:/Users/Magda/Documents/4sem/programowanie/naiwny polimorfizm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magda/Documents/4sem/programowanie/naiwny polimorfizm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

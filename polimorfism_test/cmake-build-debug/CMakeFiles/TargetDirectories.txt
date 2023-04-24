@@ -1,0 +1,3 @@
+C:/Users/Magda/Documents/4sem/programowanie/oceniacz testow/cmake-build-debug/CMakeFiles/oceniacz_testow.dir
+C:/Users/Magda/Documents/4sem/programowanie/oceniacz testow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magda/Documents/4sem/programowanie/oceniacz testow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
