@@ -1,0 +1,3 @@
+C:/Users/Magda/Documents/4sem/asd/przemytnicy/cmake-build-debug/CMakeFiles/przemytnicy.dir
+C:/Users/Magda/Documents/4sem/asd/przemytnicy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magda/Documents/4sem/asd/przemytnicy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
