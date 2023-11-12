@@ -1,0 +1,3 @@
+C:/Users/Magda/Documents/4sem/asd/jasio/cmake-build-debug/CMakeFiles/jasio.dir
+C:/Users/Magda/Documents/4sem/asd/jasio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magda/Documents/4sem/asd/jasio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
